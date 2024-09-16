@@ -25,7 +25,7 @@ git clone <REPOSITORY_URL>
 ```
 ### Navigate to the project directory:
 ```bash
-cd path/to/portfolio-form
+cd path/to/back-end
 ```
 
 ### Install the necessary dependencies for both the front-end and back-end:
@@ -38,7 +38,7 @@ npm install
 ```
 ##### 2. For the back-end (Node.js):
 ```bash
-cd back-end
+cd backend
 npm install
 ```
 ### Start the local server for development:
