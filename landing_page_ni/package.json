@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  },
+  "name": "landing_page_ni",
+  "description": "This repository contains a website designed for land developers, providing various features for service contracts and cost estimation. The site was adapted from Urbia's previous project (urbia.com.br) with updates to contact information and local database integration.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
